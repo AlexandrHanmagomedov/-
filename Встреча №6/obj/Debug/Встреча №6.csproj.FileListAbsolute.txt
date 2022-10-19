@@ -1,0 +1,16 @@
+F:\C#\Встреча №6\bin\Debug\Встреча №6.exe.config
+F:\C#\Встреча №6\bin\Debug\Встреча №6.exe
+F:\C#\Встреча №6\bin\Debug\Встреча №6.pdb
+F:\C#\Встреча №6\obj\Debug\Встреча №6.csproj.AssemblyReference.cache
+F:\C#\Встреча №6\obj\Debug\Встреча №6.csproj.SuggestedBindingRedirects.cache
+F:\C#\Встреча №6\obj\Debug\Встреча №6.csproj.CoreCompileInputs.cache
+F:\C#\Встреча №6\obj\Debug\Встреча №6.exe
+F:\C#\Встреча №6\obj\Debug\Встреча №6.pdb
+D:\downloads\C#\Встреча №6\bin\Debug\Встреча №6.exe.config
+D:\downloads\C#\Встреча №6\bin\Debug\Встреча №6.exe
+D:\downloads\C#\Встреча №6\bin\Debug\Встреча №6.pdb
+D:\downloads\C#\Встреча №6\obj\Debug\Встреча №6.csproj.AssemblyReference.cache
+D:\downloads\C#\Встреча №6\obj\Debug\Встреча №6.csproj.SuggestedBindingRedirects.cache
+D:\downloads\C#\Встреча №6\obj\Debug\Встреча №6.csproj.CoreCompileInputs.cache
+D:\downloads\C#\Встреча №6\obj\Debug\Встреча №6.exe
+D:\downloads\C#\Встреча №6\obj\Debug\Встреча №6.pdb

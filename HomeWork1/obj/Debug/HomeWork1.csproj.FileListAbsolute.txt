@@ -1,0 +1,24 @@
+U:\C sharp#\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+U:\C sharp#\HomeWork1\obj\Debug\HomeWork1.csproj.SuggestedBindingRedirects.cache
+U:\C sharp#\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+U:\C sharp#\HomeWork1\bin\Debug\HomeWork1.exe.config
+U:\C sharp#\HomeWork1\bin\Debug\HomeWork1.exe
+U:\C sharp#\HomeWork1\bin\Debug\HomeWork1.pdb
+U:\C sharp#\HomeWork1\obj\Debug\HomeWork1.exe
+U:\C sharp#\HomeWork1\obj\Debug\HomeWork1.pdb
+F:\C#\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+F:\C#\HomeWork1\obj\Debug\HomeWork1.csproj.SuggestedBindingRedirects.cache
+F:\C#\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+F:\C#\HomeWork1\obj\Debug\HomeWork1.exe
+F:\C#\HomeWork1\obj\Debug\HomeWork1.pdb
+F:\C#\HomeWork1\bin\Debug\HomeWork1.exe.config
+F:\C#\HomeWork1\bin\Debug\HomeWork1.exe
+F:\C#\HomeWork1\bin\Debug\HomeWork1.pdb
+D:\downloads\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+D:\downloads\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+D:\downloads\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+D:\downloads\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+D:\downloads\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.SuggestedBindingRedirects.cache
+D:\downloads\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+D:\downloads\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+D:\downloads\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb

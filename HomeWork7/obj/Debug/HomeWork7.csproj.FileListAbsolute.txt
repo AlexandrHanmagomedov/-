@@ -1,0 +1,8 @@
+D:\distrib\VisualStudio\repos\HomeWork7\obj\Debug\HomeWork7.csproj.AssemblyReference.cache
+D:\distrib\VisualStudio\repos\HomeWork7\obj\Debug\HomeWork7.csproj.SuggestedBindingRedirects.cache
+D:\distrib\VisualStudio\repos\HomeWork7\obj\Debug\HomeWork7.csproj.CoreCompileInputs.cache
+D:\distrib\VisualStudio\repos\HomeWork7\bin\Debug\HomeWork7.exe.config
+D:\distrib\VisualStudio\repos\HomeWork7\bin\Debug\HomeWork7.exe
+D:\distrib\VisualStudio\repos\HomeWork7\bin\Debug\HomeWork7.pdb
+D:\distrib\VisualStudio\repos\HomeWork7\obj\Debug\HomeWork7.exe
+D:\distrib\VisualStudio\repos\HomeWork7\obj\Debug\HomeWork7.pdb
